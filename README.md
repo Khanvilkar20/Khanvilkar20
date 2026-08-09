@@ -238,10 +238,5 @@ I care about writing software that is not only functional, but also **maintainab
 ---
 
 <br>
-
+<img alt="Waving Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:A5B4FC,50:C7D2FE,100:E0E7FF&height=130&section=footer" width="100%">
 <!-- Premium waving footer -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=130&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=130&section=footer">
-  <img alt="Waving Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=130&section=footer" width="100%">
-</picture>
