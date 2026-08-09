@@ -252,7 +252,17 @@ jobs:
 </picture>
 
 </div>
+<h2 align="center">⚽ Contribution Season</h2>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Khanvilkar20/Khanvilkar20/output/football-contributions.svg"
+    alt="Sahil's Football Contribution Season"
+    width="95%"
+  >
+</p>
+
+<br>
 ---
 
 ## <div align="center">Connect With Me</div>
