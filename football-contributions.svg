@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 300"
+     width="1200"
+     height="300">
+
+  <rect width="1200" height="300" fill="#0B0F0C"/>
+
+  <!-- Football pitch -->
+  <rect x="30" y="30"
+        width="1140"
+        height="240"
+        rx="12"
+        fill="none"
+        stroke="#9CA3AF"
+        stroke-width="2"/>
+
+  <line x1="600" y1="30"
+        x2="600" y2="270"
+        stroke="#6B7280"
+        stroke-width="2"/>
+
+  <circle cx="600" cy="150"
+          r="45"
+          fill="none"
+          stroke="#6B7280"
+          stroke-width="2"/>
+
+  <!-- Contribution-style cells -->
+  <g>
+    <rect x="100" y="80" width="18" height="18" fill="#374151"/>
+    <rect x="130" y="80" width="18" height="18" fill="#4B5563"/>
+    <rect x="160" y="80" width="18" height="18" fill="#6B7280"/>
+    <rect x="190" y="80" width="18" height="18" fill="#9CA3AF"/>
+
+    <rect x="100" y="110" width="18" height="18" fill="#4B5563"/>
+    <rect x="130" y="110" width="18" height="18" fill="#6B7280"/>
+    <rect x="160" y="110" width="18" height="18" fill="#D1D5DB"/>
+    <rect x="190" y="110" width="18" height="18" fill="#6B7280"/>
+
+    <rect x="100" y="140" width="18" height="18" fill="#6B7280"/>
+    <rect x="130" y="140" width="18" height="18" fill="#9CA3AF"/>
+    <rect x="160" y="140" width="18" height="18" fill="#D1D5DB"/>
+    <rect x="190" y="140" width="18" height="18" fill="#9CA3AF"/>
+
+    <rect x="100" y="170" width="18" height="18" fill="#374151"/>
+    <rect x="130" y="170" width="18" height="18" fill="#4B5563"/>
+    <rect x="160" y="170" width="18" height="18" fill="#6B7280"/>
+    <rect x="190" y="170" width="18" height="18" fill="#4B5563"/>
+  </g>
+
+  <!-- Moving football -->
+  <g>
+    <circle r="14" fill="#FFFFFF">
+      <animateMotion
+        dur="6s"
+        repeatCount="indefinite"
+        path="M80,150 C250,90 400,210 600,150 S900,90 1110,150"/>
+    </circle>
+
+    <circle r="5" fill="#111827">
+      <animateMotion
+        dur="6s"
+        repeatCount="indefinite"
+        path="M80,150 C250,90 400,210 600,150 S900,90 1110,150"/>
+    </circle>
+  </g>
+
+  <!-- Goal -->
+  <path d="M1080 100 L1150 100 L1150 200 L1080 200"
+        fill="none"
+        stroke="#D1D5DB"
+        stroke-width="5"/>
+
+  <!-- #7 -->
+  <text x="1050"
+        y="75"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="42"
+        font-weight="bold"
+        text-anchor="middle">
+    #7
+  </text>
+
+  <text x="1115"
+        y="245"
+        fill="#D1D5DB"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        font-weight="bold"
+        text-anchor="middle">
+    GOAL!
+  </text>
+
+</svg>
