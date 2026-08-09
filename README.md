@@ -118,7 +118,7 @@ I care about writing software that is not only functional, but also **maintainab
   <img src="https://skillicons.dev/icons?i=mysql" height="52" alt="SQL">
 </a>
 
-<br><br>
+<br>
 
 ### ⚙️ Backend & Frameworks
 
@@ -138,7 +138,7 @@ I care about writing software that is not only functional, but also **maintainab
   <img src="https://skillicons.dev/icons?i=kafka" height="52" alt="Kafka">
 </a>
 
-<br><br>
+<br>
 
 ### 🗄️ Databases & Cloud
 
@@ -161,7 +161,7 @@ I care about writing software that is not only functional, but also **maintainab
   <img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub">
 </a>
 
-<br><br>
+<br>
 
 ### 🛠️ Tools & Development
 
