@@ -5,14 +5,11 @@
 
 <div align="center">
 
-<!-- Responsive Light/Dark Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=220&section=header&text=Sahil%20Khanvilkar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Sahil%20Khanvilkar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
-  <img alt="Sahil Khanvilkar GitHub Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Sahil%20Khanvilkar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%">
-</picture>
 
 <br>
+<div align="center">
+  <img src="./art/github-header-banner.png" alt="Sahil Khanvilkar GitHub Banner" width="100%">
+</div>
 
 # Hey there, I'm Sahil 👋
 
@@ -34,7 +31,11 @@
   <img src="https://img.shields.io/github/stars/Khanvilkar20?affiliations=OWNER&style=flat-square&color=ffffff&labelColor=000000&logo=github&logoColor=ffffff" alt="GitHub Stars">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Khanvilkar20&label=Profile%20Views&color=ffffff&labelColor=000000&style=flat-square" alt="Profile Views">
+<img
+  src="https://komarev.com/ghpvc/?username=Khanvilkar20&label=Profile%20Views&color=ffffff&labelColor=000000&style=flat-square&logo=github&logoColor=ffffff"
+  alt="Profile Views"
+>
+
 
 <br><br>
 
