@@ -189,7 +189,7 @@ I care about writing software that is not only functional, but also **maintainab
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Khanvilkar20&theme=default&hide_border=true&background=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=000000&sideNums=000000&dates=777777"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Khanvilkar20&theme=default&hide_border=true&background=FFFFFF&ring=6B7280&fire=374151&currStreakLabel=374151&sideLabels=6B7280&currStreakNum=111827&sideNums=111827&dates=6B7280"
   width="70%"
   alt="GitHub Streak"
 />
@@ -197,7 +197,7 @@ I care about writing software that is not only functional, but also **maintainab
 <br><br>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Khanvilkar20&bg_color=FFFFFF&color=000000&line=FF69B4&point=FF69B4&area=true&hide_border=true&custom_title=Sahil%20Khanvilkar%27s%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Khanvilkar20&bg_color=FFFFFF&color=374151&line=6B7280&point=111827&area=true&hide_border=true&custom_title=Sahil%20Khanvilkar%27s%20Contribution%20Graph"
   width="95%"
   alt="GitHub Activity Graph"
 />
