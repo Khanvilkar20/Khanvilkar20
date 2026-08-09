@@ -206,69 +206,20 @@ I care about writing software that is not only functional, but also **maintainab
 
 ---
 
-## <div align="center">Contribution Snake</div>
-
 <br>
 
-<!--
-GitHub Action:
-.github/workflows/snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Khanvilkar20
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
--->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khanvilkar20/Khanvilkar20/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khanvilkar20/Khanvilkar20/output/github-contribution-grid-snake.svg">
-  <img
-    src="https://raw.githubusercontent.com/Khanvilkar20/Khanvilkar20/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  >
 </picture>
 
-</div>
-<h2 align="center">⚽ Contribution Season</h2>
-
+<h2 align="center">🛸 Contribution Season</h2>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Khanvilkar20/Khanvilkar20/output/football-contributions.svg"
-    alt="Sahil's Football Contribution Season"
+    src="./ufo-contributions.svg"
+    alt="Sahil's UFO Contribution Season"
     width="95%"
   >
 </p>
 
-<br>
 ---
-
-## <div align="center">Connect With Me</div>
-
-<br>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
