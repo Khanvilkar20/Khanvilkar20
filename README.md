@@ -15,29 +15,13 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Backend+Systems;Exploring+Cloud%2C+AI+%26+FinTech;Turning+Ideas+into+Production-Ready+Software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C0C0C0&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Backend+Systems;Exploring+Cloud%2C+AI+%26+FinTech;Turning+Ideas+into+Production-Ready+Software"
     alt="Typing SVG"
   />
 </a>
 
 <br>
 
-<!-- GitHub Badges -->
-<a href="https://github.com/Khanvilkar20">
-  <img src="https://img.shields.io/github/followers/Khanvilkar20?label=Followers&style=flat-square&color=ffffff&labelColor=000000&logo=github&logoColor=ffffff" alt="GitHub Followers">
-</a>
-&nbsp;
-<a href="https://github.com/Khanvilkar20?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Khanvilkar20?affiliations=OWNER&style=flat-square&color=ffffff&labelColor=000000&logo=github&logoColor=ffffff" alt="GitHub Stars">
-</a>
-&nbsp;
-<img
-  src="https://komarev.com/ghpvc/?username=Khanvilkar20&label=Profile%20Views&color=ffffff&labelColor=000000&style=flat-square&logo=github&logoColor=ffffff"
-  alt="Profile Views"
->
-
-
-<br><br>
 
 <a href="#about-me">About Me</a>
 &nbsp;•&nbsp;
@@ -85,22 +69,22 @@ I care about writing software that is not only functional, but also **maintainab
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://raw.githubusercontent.com/Khanvilkar20/Khanvilkar20/main/assets/coding.gif"
+  src="art/Screenshot 2026-08-09 092612.png"
   width="280"
-  alt="Coding Animation"
+  alt="SAHIL"
 />
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/Backend-Developer-FF69B4?style=for-the-badge&logo=serverless&logoColor=white"
+  src="https://img.shields.io/badge/Backend-Developer-B8C0CC?style=for-the-badge&logo=serverless&logoColor=white"
   alt="Backend Developer"
 />
 
 <br>
 
 <img
-  src="https://img.shields.io/badge/Building-The%20Future-F8BBD0?style=for-the-badge&logo=rocket&logoColor=black"
+  src="https://img.shields.io/badge/Building-The%20Future-6B7280?style=for-the-badge&logo=rocket&logoColor=black"
   alt="Building the Future"
 />
 
