@@ -11,7 +11,7 @@
   <img src="./art/github-header-banner.png" alt="Sahil Khanvilkar GitHub Banner" width="100%">
 </div>
 
-# Hey there, I'm Sahil 👋
+ ---
 
 <a href="https://git.io/typing-svg">
   <img
@@ -220,33 +220,6 @@ I care about writing software that is not only functional, but also **maintainab
 </p>
 
 ---
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF" alt="LinkedIn">
-</a>
-
-&nbsp;
-
-<a href="https://x.com/YOUR-X-USERNAME">
-  <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000&labelColor=FFFFFF" alt="X">
-</a>
-
-&nbsp;
-
-<a href="https://www.youtube.com/@YOUR-YOUTUBE-USERNAME">
-  <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=FFFFFF" alt="YouTube">
-</a>
-
-&nbsp;
-
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF" alt="Email">
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -257,7 +230,7 @@ I care about writing software that is not only functional, but also **maintainab
 <br>
 
 <a href="https://github.com/Khanvilkar20">
-  <img src="https://img.shields.io/badge/Explore%20My%20GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
+  <img src="https://img.shields.io/badge/Explore%20My%20GitHub-8C92AC?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
 </a>
 
 </div>
