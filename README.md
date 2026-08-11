@@ -194,6 +194,8 @@ I care about writing software that is not only functional, but also **maintainab
   alt="GitHub Streak"
 />
 
+---
+
 <br><br>
 
 <img
