@@ -180,9 +180,7 @@ I care about writing software that is not only functional, but also **maintainab
 
 </div>
 
----
 
-## <div align="center">GitHub Activity</div>
 
 <!-- <br>
 
@@ -194,13 +192,13 @@ I care about writing software that is not only functional, but also **maintainab
   alt="GitHub Streak"
 /> -->
 
-<br>
+<!-- <br>
 <div align="center">
 <img
   src="https://streak-stats.demolab.com/?user=Khanvilkar20&theme=default&background=FFFFFF&ring=6B7280&fire=374151&currStreakLabel=374151&sideLabels=6B7280&currStreakNum=111827&sideNums=111827&dates=6B7280"
   width="70%"
   alt="GitHub Streak"
-/>
+/> -->
 
 ---
 
