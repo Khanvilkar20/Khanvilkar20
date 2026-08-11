@@ -1471,7 +1471,7 @@
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9946;1.0000;1"
         dur="29.36s" repeatCount="indefinite" begin="0s" />
     </rect>
-    <rect x="800" y="50" width="12" height="12" rx="2" fill="#ebedf0">
+    <rect x="800" y="50" width="12" height="12" rx="2" fill="#9be9a8">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9973;1.0000;1"
         dur="29.36s" repeatCount="indefinite" begin="0s" />
     </rect>
