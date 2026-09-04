@@ -200,19 +200,18 @@ I care about writing software that is not only functional, but also **maintainab
   alt="GitHub Streak"
 /> -->
 
----
 
-<br><br>
+<!-- <br><br> -->
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Khanvilkar20&bg_color=FFFFFF&color=374151&line=6B7280&point=111827&area=true&hide_border=true&custom_title=Sahil%20Khanvilkar%27s%20Contribution%20Graph"
-  width="95%"
-  alt="GitHub Activity Graph"
+<!-- <div align="center">
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Khanvilkar20&bg_color=FFFFFF&color=374151&line=6B7280&point=111827&area=true&hide_border=true&custom_title=Sahil%20Khanvilkar's%20Contribution%20Graph"
+width="95%"
+alt="GitHub Activity Graph"
 />
-
 </div>
 
----
+--- -->
 
 <br>
 
